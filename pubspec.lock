@@ -107,6 +107,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
+  infinite_scroll_pagination:
+    dependency: "direct main"
+    description:
+      name: infinite_scroll_pagination
+      sha256: b68bce20752fcf36c7739e60de4175494f74e99e9a69b4dd2fe3a1dd07a7f16a
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.0"
   lints:
     dependency: transitive
     description:
@@ -139,6 +147,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.10.0"
+  number_pagination:
+    dependency: "direct main"
+    description:
+      name: number_pagination
+      sha256: e4ada9723f739c749752e35d273f171d864815281af8c2455b6466990aae076d
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3+2"
+  number_paginator:
+    dependency: "direct main"
+    description:
+      name: number_paginator
+      sha256: e9a21f876b09ad41db5fb994883f52ceb54c5b18f611bf6015495487eb7300b1
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.0"
   path:
     dependency: transitive
     description:
@@ -234,3 +258,4 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.0-194.0.dev <4.0.0"
+  flutter: ">=3.7.0"
